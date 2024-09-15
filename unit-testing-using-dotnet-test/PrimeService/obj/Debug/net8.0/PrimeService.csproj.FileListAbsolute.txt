@@ -1,0 +1,12 @@
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.sourcelink.json
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/workspaces/CIDM4390/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
